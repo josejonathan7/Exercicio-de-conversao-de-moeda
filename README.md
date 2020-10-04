@@ -1,2 +1,2 @@
-# Exercicio-de-prog-algoritmo-C-
+# Exercicio-de-prog-C#-
 Exercícios de Programação em C#
