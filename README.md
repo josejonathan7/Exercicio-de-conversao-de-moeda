@@ -1,2 +1,2 @@
 # Exercicio-de-prog-C#-
-Exercícios de Programação em C#
+Exercicios inciantes para começar a aprender a utilizar variáveis.
